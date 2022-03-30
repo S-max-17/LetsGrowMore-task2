@@ -41,7 +41,7 @@ class App extends Component {
           <Users loading={this.state.loading} users={this.state.users_data} />
         </div>
         <footer className="footer">
-          Let's Grow More Task2 Done by Arun Kumar singh
+          Let's Grow More Task2 Done by Sonu Nagar
         </footer>
       </>
     );
