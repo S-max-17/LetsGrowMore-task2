@@ -20,7 +20,7 @@ nav {
   height: 10vh;
   border: 2px solid transparent;
   border-radius: 30px;
-  background-color: #0f52ba;
+  background-color: #6495ED;
   font-family: serif;
   font-size: 20px;
   margin: auto 0px;
@@ -42,7 +42,7 @@ nav {
   /* padding-top: 10vh; */
 }
 .name:hover {
-  color: red;
+  color: white;
 }
 
 .avatar {
